@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como estagiária em Desenvolvimento Web Front-End.
 - 📚 Cursando Ciência da Computação.
-- 🌱 Estudando TypeScript.
+- 🌱 Estudando TypeScript e React.
 
 <div align="center">
   <a href="https://github.com/bberaldo">
