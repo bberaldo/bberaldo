@@ -1,4 +1,4 @@
-### Olá, eu sou a Beatriz Beraldo! 👋
+### Olá, eu sou a Beatriz Beraldo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 - 🔭 Hoje trabalho como estagiária em Desenvolvimento Web Front-End.
 - 📚 Cursando Ciência da Computação.
