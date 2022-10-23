@@ -1,7 +1,7 @@
 ### Olá, eu sou a Beatriz Beraldo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 - 🔭 Hoje trabalho como estagiária em Desenvolvimento Web Front-End.
-- 📚 Cursando Ciência da Computação.
+- 📚 Ciência da Computação 2/8.
 - 🌱 Estudando TypeScript e React.
 
 <div align="center">
@@ -15,7 +15,7 @@
   <img align="center" alt="Beatriz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Beatriz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Beatriz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Beatriz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Beatriz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
 ##
