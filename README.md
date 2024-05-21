@@ -1,8 +1,8 @@
 ### Olá, eu sou a Beatriz Beraldo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 - 🔭 Hoje trabalho com Desenvolvimento Web.
-- 📚 Ciência da Computação 2/8.
-- 🌱 Estudando TypeScript e React.
+- 📚 Ciência da Computação 5/8.
+- 🌱 TypeScript e React.
 
 <div align="center">
   <a href="https://github.com/bberaldo">
