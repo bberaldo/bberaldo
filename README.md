@@ -1,6 +1,11 @@
 # 💫 Sobre mim:
-# Olá, eu sou a Beatriz Beraldo! 👋<br><br>🔭 Atualmente atuo com *Desenvolvimento Web*  <br>🎓 Graduanda em **Ciência da Computação** – 7º semestre (7/8)  <br>🌱 Aprimorando meus conhecimentos em **TypeScript** e **React**  <br>💡 Apaixonada por tecnologia, inovação e desenvolvimento de soluções criativas  <br>💼 Sempre em busca de novos aprendizados e desafios na área de tecnologia 
+# Olá, eu sou a Beatriz Beraldo! 👋
 
+🔭 Atualmente atuo com desenvolvimento web  
+🎓 Graduanda em Ciência da Computação – 7º semestre (7/8)  
+🌱 Aprimorando meus conhecimentos em TypeScript e React  
+💡 Apaixonada por tecnologia, inovação e desenvolvimento de soluções criativas  
+💼 Sempre em busca de novos aprendizados e desafios na área de tecnologia
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/beatrizberaldo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beabberaldo@gmail.com) 
