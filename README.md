@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-### Olá, eu sou a Beatriz Beraldo! 👋<br><br>🔭 Atualmente atuo com **Desenvolvimento Web**  <br>🎓 Graduanda em **Ciência da Computação** – 5º semestre (5/8)  <br>🌱 Aprimorando meus conhecimentos em **TypeScript** e **React**  <br>💡 Apaixonada por tecnologia, inovação e desenvolvimento de soluções criativas  <br>💼 Sempre em busca de novos aprendizados e desafios na área de tecnologia 
+### Olá, eu sou a Beatriz Beraldo! 👋<br><br>🔭 Atualmente atuo com **Desenvolvimento Web**  <br>🎓 Graduanda em **Ciência da Computação** – 7º semestre (7/8)  <br>🌱 Aprimorando meus conhecimentos em **TypeScript** e **React**  <br>💡 Apaixonada por tecnologia, inovação e desenvolvimento de soluções criativas  <br>💼 Sempre em busca de novos aprendizados e desafios na área de tecnologia 
 
 
 ## 🌐 Redes:
