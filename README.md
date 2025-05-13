@@ -1,30 +1,24 @@
-### Olá, eu sou a Beatriz Beraldo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
-
-- 🔭 Hoje trabalho com Desenvolvimento Web.
-- 📚 Ciência da Computação 5/8.
-- 🌱 TypeScript e React.
-
-<div align="center">
-  <a href="https://github.com/bberaldo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bberaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bberaldo&layout=compact&langs_count=7&theme=dracula"/> -->
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Beatriz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Beatriz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Beatriz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Beatriz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Beatriz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Beatriz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-  
-##
-  
-<div>
-  <a href="mailto:beabberaldo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/beatrizberaldo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/bberaldo/bberaldo/blob/output/github-contribution-grid-snake.svg)
+# 💫 Sobre mim:
+### Olá, eu sou a Beatriz Beraldo! 👋<br><br>🔭 Atualmente atuo com **Desenvolvimento Web**  <br>🎓 Graduanda em **Ciência da Computação** – 5º semestre (5/8)  <br>🌱 Aprimorando meus conhecimentos em **TypeScript** e **React**  <br>💡 Apaixonada por tecnologia, inovação e desenvolvimento de soluções criativas  <br>💼 Sempre em busca de novos aprendizados e desafios na área de tecnologia 
 
 
-</div>
+## 🌐 Redes:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/beatrizberaldo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beabberaldo@gmail.com) 
+
+# 💻 Habilidades:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+# 📊 GitHub:
+![](https://github-readme-stats.vercel.app/api?username=bberaldo&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bberaldo&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bberaldo&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Dev 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Repo
+![](https://github-contributor-stats.vercel.app/api?username=bberaldo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=bberaldo&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
